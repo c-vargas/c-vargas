@@ -4,9 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Christian_Vargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-vargas21/)](https://www.linkedin.com/in/christian-vargas21/)
 or [![Gmail Badge](https://img.shields.io/badge/-21chrisvargas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:21chrisvargas@gmail.com)](mailto:21chrisvargas1@gmail.com)
 
-### Quick Facts
+### Quick Facts :
 
 - I’m a `senior` at [California State University, Monterey Bay](https://csumb.edu/scd/degree-programs/cs/)
+- Skilled Data Analyst with expertise in statistical analysis, data modeling, and visualization.
+- Looking to transition into a software engineering role, bringing analytical acumen, a passion for problem-solving, and attention to detail.
 - 📫 How to reach me: 21chrisvargas@gmail.com
 
 ### 🛠️ Languages and Tools:
