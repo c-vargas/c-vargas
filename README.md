@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm [Christian Vargas](https://github.com/c-vargas)
+![Role](https://img.shields.io/badge/Role-Data_Analyst-green)
 
 ### Connect with me : <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Christian_Vargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-vargas21/)](https://www.linkedin.com/in/christian-vargas21/)
@@ -6,9 +7,10 @@ or [![Gmail Badge](https://img.shields.io/badge/-21chrisvargas@gmail.com-c14438?
 
 ### Quick Facts :
 
-- I’m a `senior` at [California State University, Monterey Bay](https://csumb.edu/scd/degree-programs/cs/)
-- Skilled Data Analyst with expertise in statistical analysis, data modeling, and visualization.
-- Looking to transition into a software engineering role, bringing analytical acumen, a passion for problem-solving, and attention to detail.
+- 🎓 Currently a `senior` at [California State University, Monterey Bay](https://csumb.edu/scd/degree-programs/cs/)
+- 📊 Skilled Data Analyst with expertise in statistical analysis, data modeling, and visualization
+- 🔄 Looking to transition into a software engineering role
+- 💡 Bringing analytical acumen, a passion for problem-solving, and attention to detail
 - 📫 How to reach me: 21chrisvargas@gmail.com
 
 ### 🛠️ Languages and Tools:
@@ -18,7 +20,7 @@ or [![Gmail Badge](https://img.shields.io/badge/-21chrisvargas@gmail.com-c14438?
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -43,3 +45,5 @@ or [![Gmail Badge](https://img.shields.io/badge/-21chrisvargas@gmail.com-c14438?
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Excel](https://img.shields.io/badge/-Excel-black?logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
